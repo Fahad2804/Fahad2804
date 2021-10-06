@@ -8,7 +8,6 @@ I am a student. I like to read, I like to write and I like to see the sunrise in
 
 Skills: C,C++
 
-- 🔭 I’m currently working on Facebook 
 - 🌱 I’m currently learning C++, JavaScript 
 - 💬 Ask me about Noob programmer 
 - 📫 How to reach me: YouTube,Facebook,Instagram 
